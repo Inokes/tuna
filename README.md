@@ -6,5 +6,14 @@ Tuna solves this by using plain binaries, no configuration except when it's expl
 
 # Why the name "tuna"?
 
-When i first thought of this program, i wanted to name it spm (Simple Package Manager). I instantly thought of naming it SPAM but it would sound shady. So i thought of something close to SPAM and named it tuna. That's the history.
+When i first thought of this program, i wanted to name it spm (Simple Package Manager). I instantly thought of naming it SPAM, but it would sound shady. So i thought of something close to SPAM and named it tuna. That's the history.
 
+# Note
+
+I still didn't commit anything to this repo because it's STILL in very early development. It's just the README, and that's all.
+
+# TODO
+- [ ] Actually put something here
+- [x] Start working on it
+- [ ] Add well known package formats instead of plain binaries
+- [ ] Configuration
