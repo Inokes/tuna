@@ -13,7 +13,12 @@ When i first thought of this program, i wanted to name it spm (Simple Package Ma
 I still didn't commit anything to this repo because it's STILL in very early development. It's just the README, and that's all.
 
 # TODO
-- [ ] Actually put something here
+- [x] Actually put something here
 - [x] Start working on it
 - [ ] Add well known package formats instead of plain binaries
-- [ ] Configuration
+- [x] Configuration (kinda)
+- [ ] Add documentation
+- [ ] API
+- [ ] Repository support
+- [ ] GPG Signature
+- [ ] File integrity verification
