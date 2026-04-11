@@ -10,7 +10,8 @@ When i first thought of this program, i wanted to name it spm (Simple Package Ma
 
 # Note
 
-I still didn't commit anything to this repo because it's STILL in very early development. It's just the README, and that's all.
+~I still didn't commit anything to this repo because it's STILL in very early development. It's just the README, and that's all.~
+Here it is!
 
 # TODO
 - [x] Actually put something here
