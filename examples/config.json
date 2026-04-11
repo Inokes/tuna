@@ -1,0 +1,13 @@
+// This is what tuna will yoink
+// at $HOME/.config/tuna/config.json .
+
+{
+  "bin_dir": "/usr/local/bin",
+  "packages": {
+    "example-tool": {
+      "url": "https://example.com/tool.tar.gz",
+      "version": "1.0.0",
+      "installed_at": "2026-04-11T17:00:00Z"
+    }
+  }
+}
